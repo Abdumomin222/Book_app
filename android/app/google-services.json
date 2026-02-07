@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "906950790483",
+    "project_id": "abdumomin6791",
+    "storage_bucket": "abdumomin6791.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906950790483:android:e0ae4244fcf0542c5c25a6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTL_doTZuODKDdWkUnhBUAArz3Aa25xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906950790483-pfi75oklo0jfjl87099ai2827pat3dg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906950790483:android:5588342a513674245c25a6",
+        "android_client_info": {
+          "package_name": "uz.gita.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTL_doTZuODKDdWkUnhBUAArz3Aa25xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906950790483-pfi75oklo0jfjl87099ai2827pat3dg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906950790483:android:e96f1d62ce5ec1605c25a6",
+        "android_client_info": {
+          "package_name": "uz.gita.flutter_book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTL_doTZuODKDdWkUnhBUAArz3Aa25xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906950790483-pfi75oklo0jfjl87099ai2827pat3dg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906950790483:android:8b8926e80a3d538a5c25a6",
+        "android_client_info": {
+          "package_name": "uz.gita.myshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTL_doTZuODKDdWkUnhBUAArz3Aa25xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906950790483-pfi75oklo0jfjl87099ai2827pat3dg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906950790483:android:f8e83afc56f1ec265c25a6",
+        "android_client_info": {
+          "package_name": "uz.gita.shopappwithfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTL_doTZuODKDdWkUnhBUAArz3Aa25xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906950790483-9ju3o1hg99ckggp2gsvqbsctc99d7680.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906950790483-pfi75oklo0jfjl87099ai2827pat3dg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
